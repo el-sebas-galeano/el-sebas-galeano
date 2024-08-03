@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! Mi nombre es Juan Sebastian 👋
 
 <!--
 **el-sebas-galeano/el-sebas-galeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
