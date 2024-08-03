@@ -1,4 +1,4 @@
-## Hola! Mi nombre es Juan Sebastian 👋
+## Hi! My name is Juan Sebastian 👋
 
 - 🔭 I’m currently working on my graduation project.
 - 🌱 I’m currently learning about cloud and infrastructure.
