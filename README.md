@@ -9,6 +9,8 @@
 - 💬 Ask me about my journey as a Systems Engineering student.
 - 📫 How to reach me: jsebastian-galeano@javeriana.edu.co; jusebastiangg@gmail.com.
 - 😄 Pronouns: him/he.
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-sebas-galeano)](https://github.com/el-sebas-galeano/github-readme-stats)
   
 <!--
 **el-sebas-galeano/el-sebas-galeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
