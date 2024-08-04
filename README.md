@@ -1,5 +1,7 @@
 ## Hi! My name is Juan Sebastian 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=el-sebas-galeano&show_icons=true&theme=tokyonight)
+
 - 🔭 I’m currently working on my graduation project.
 - 🌱 I’m currently learning about cloud and infrastructure.
 - 👯 I’m looking to collaborate on distributed projects that help me improve my design and implementation skills.
