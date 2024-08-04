@@ -1,6 +1,6 @@
 ## Hi! My name is Juan Sebastian 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=el-sebas-galeano&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=el-sebas-galeano&show_icons=true&theme=synthwave)
 
 - 🔭 I’m currently working on my graduation project.
 - 🌱 I’m currently learning about cloud and infrastructure.
@@ -10,7 +10,9 @@
 - 📫 How to reach me: jsebastian-galeano@javeriana.edu.co; jusebastiangg@gmail.com.
 - 😄 Pronouns: him/he.
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-sebas-galeano)](https://github.com/el-sebas-galeano/github-readme-stats&theme=gruvbox)
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-sebas-galeano)](https://github.com/el-sebas-galeano/github-readme-stats)
   
 <!--
 **el-sebas-galeano/el-sebas-galeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
