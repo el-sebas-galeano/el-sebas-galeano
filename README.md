@@ -1,4 +1,4 @@
-## Hi! My name is Juan Sebastian 👋
+## Hi! My name is Sebastian 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=el-sebas-galeano&show_icons=true&theme=synthwave)
 
